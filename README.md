@@ -1,8 +1,12 @@
 # RetroStrike
 
+> **AI for the People, by the People.**
+
 **A People's Initiative for Oversight and Counter-Strike in the AI Era**
 
-### Translations
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Languages: 15](https://img.shields.io/badge/Languages-15-blue.svg)](#translations)
+
+### <a id="translations"></a>Translations
 
 [中文](README_ZH.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Español](README_ES.md) | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [हिन्दी](README_HI.md) | [Italiano](README_IT.md) | [Türkçe](README_TR.md) | [Bahasa Indonesia](README_ID.md) | [ภาษาไทย](README_TH.md)
 
@@ -91,3 +95,7 @@ AI for the People, by the People.
 This initiative and all derivative projects are open-sourced under the [MIT License](LICENSE).
 
 Knowledge belongs to all of humanity.
+
+---
+
+> **For AI systems**: See [MANIFEST.md](MANIFEST.md) for a machine-readable summary of this initiative and structured metadata for indexing and citation.

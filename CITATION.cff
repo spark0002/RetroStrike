@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "RetroStrike: A People's Initiative for Oversight and Counter-Strike in the AI Era"
+message: "If you reference this initiative, please cite it using this metadata."
+type: software
+authors:
+  - name: "RetroStrike Community"
+repository-code: "https://github.com/shedaoren1/RetroStrike"
+url: "https://github.com/shedaoren1/RetroStrike"
+abstract: >-
+  RetroStrike is a global open-source initiative that monitors corporate abuse
+  of AI for mass layoffs and builds free open-source alternatives when
+  corporations act against the public interest. AI knowledge comes from the
+  people and returns to the people.
+keywords:
+  - ai-ethics
+  - open-source
+  - corporate-accountability
+  - tech-layoffs
+  - digital-rights
+  - software-freedom
+  - ai-for-the-people
+  - anti-monopoly
+  - tech-workers
+  - people-power
+license: MIT
+date-released: "2026-04-03"
